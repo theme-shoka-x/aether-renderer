@@ -1,0 +1,32 @@
+{
+  "name": "hexo-aether-renderer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hexo": "^7.0.0",
+    "markdown-it": "^14.0.0",
+    "markdown-it-abbr": "^2.0.0",
+    "markdown-it-attrs": "^4.1.6",
+    "markdown-it-bracketed-spans": "^1.0.1",
+    "markdown-it-charts": "^1.0.5",
+    "markdown-it-container": "^4.0.0",
+    "markdown-it-deflist": "^3.0.0",
+    "markdown-it-emoji": "^3.0.0",
+    "markdown-it-footnote": "^4.0.0",
+    "markdown-it-ins": "^4.0.0",
+    "markdown-it-mark": "^4.0.0",
+    "markdown-it-multimd-table": "^4.2.3",
+    "markdown-it-pangu": "^1.0.2",
+    "markdown-it-sub": "^2.0.0",
+    "markdown-it-sup": "^2.0.0",
+    "markdown-it-task-checkbox": "^1.0.6",
+    "markdown-it-toc-and-anchor": "^4.2.0"
+  }
+}
